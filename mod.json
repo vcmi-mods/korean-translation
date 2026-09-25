@@ -27,6 +27,7 @@
 	"translations" : [
 		"config/vcmi-korean/game.json",
 		"config/vcmi-korean/maps.json",
-		"config/vcmi-korean/campaigns.json"
+		"config/vcmi-korean/campaigns.json",
+		"config/vcmi-korean/chronicles.json"
 	]
 }
