@@ -5,13 +5,11 @@
 	"author" : "hwiorn",
 	"contact" : "https://github.com/hwiorn/vcmi-mod-korean-truetype-fonts",
 	"modType" : "Graphical",
-	
-	"depends" :
-	[
+
+	"depends" : [
 		"vcmi"
 	],
-	"conflicts" :
-	[
+	"conflicts" : [
 		"cove-rus",
 		"wog rus",
 		"TrueType Fonts"
